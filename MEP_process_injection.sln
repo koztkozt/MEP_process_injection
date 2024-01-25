@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEP_process_injection", "MEP_process_injection\MEP_process_injection.csproj", "{1DAE069A-2D13-4D4D-BA88-6A8E807D79AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DAE069A-2D13-4D4D-BA88-6A8E807D79AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DAE069A-2D13-4D4D-BA88-6A8E807D79AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DAE069A-2D13-4D4D-BA88-6A8E807D79AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DAE069A-2D13-4D4D-BA88-6A8E807D79AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5420E3-638C-43E6-AAC0-CA8524148235}
+	EndGlobalSection
+EndGlobal
